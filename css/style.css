@@ -8,3 +8,10 @@ html, body
 {
 	background-image:url('../bilder/banner_1366x498.jpg');
 }
+
+#banner p
+{
+	padding:	20px;
+	margin:		20px;
+	background:	black;
+}
