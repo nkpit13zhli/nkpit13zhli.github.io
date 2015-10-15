@@ -13,6 +13,7 @@ html, body
 {
 	padding:	20px;
 	margin:		20px;
-	color:		red;
+	color:		white;
+	background:	black;
 	display:	inline-block;
 }
