@@ -1,4 +1,10 @@
-.banner
+html, body
+{
+	padding:	0;
+	margin:		0;
+}
+
+#banner
 {
 	background-image:url('bilder/banner_1366x498.jpg');
 }
