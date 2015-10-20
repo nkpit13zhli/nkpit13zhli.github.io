@@ -1,7 +1,36 @@
+@import 'variables';
+@import 'mixins';
+
+html
+{
+	color: $text-color;
+}
+
+html, body
+{
+	margin:		0;
+	padding:	0;
+}
+
 header
 {
 	h1
 	{
-		color:	red;
+
+	}
+
+	#banner
+	{
+		background:	url('../../bilder/banner_320x117.jpg');
+		height:		117px;
+		padding:	5px 0;
+
+		p
+		{
+			display:	inline-block;
+			color:		#FFFFFF;
+			background:	rgba(0, 0, 0, 0.8);
+			padding:	10px;
+		}
 	}
 }
