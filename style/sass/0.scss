@@ -38,30 +38,45 @@ html, body
 
 header
 {
+	padding-top:		25px;
 	h1
 	{
 		font-family:	'DreamOrphans';
-		font-size:		40px;
-		margin-bottom:	10px;
-		margin-left:	10px;
-		display:		inline-block;
+		font-size:		20px;
+		margin:			0 0 5px 10px;
+		float:			left;
+	}
+
+	#menu-button
+	{
+		
 	}
 
 	nav
 	{
-		display:		inline-block;
+		float:			right;
+		margin:			0 10px 0 0;
+		padding:		0;
 		font-family:	'CaviarDreams';
 		font-size:		large;
 
 		ul
 		{
+			display:			none;
 			list-style-type:	none;
+			padding-left:		5px;
+			margin:				10px 0 10px;
 
 			li
 			{
-				display:	inline-block;
+				display:	block;
 
-				a
+				.current
+				{
+					text-decoration:	underline;
+				}
+
+				a, a:visited
 				{
 					color:				black;
 					text-decoration:	none;
@@ -72,6 +87,7 @@ header
 
 	#banner
 	{
+		clear:				both;
 		background:			url('../../bilder/banner_800x400.jpg');
 		background-repeat:	no-repeat;
 		height:				400px;

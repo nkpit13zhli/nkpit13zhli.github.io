@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAKE,iBACA;EACC,SAAS,EAAG,IAAI;EAChB,WAAW,EAAE,IAAI;EACjB,OAAO,EAAG,IAAI",
+"mappings": "AAIE,iBACA;EACC,SAAS,EAAG,IAAI;EAChB,WAAW,EAAE,IAAI;EACjB,OAAO,EAAG,IAAI",
 "sources": ["../sass/500.scss"],
 "names": [],
 "file": "500.css"

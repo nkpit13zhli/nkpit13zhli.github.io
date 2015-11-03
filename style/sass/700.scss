@@ -1,5 +1,21 @@
 header
 {
+	#menu-button
+	{
+		display:	none;
+	}
+
+	nav
+	{
+		ul
+		{
+			display:		block;
+			li
+			{
+				display:	inline-block;
+			}
+		}
+	}
 
 	#banner
 	{
