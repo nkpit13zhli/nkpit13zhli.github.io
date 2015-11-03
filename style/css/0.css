@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'DreamOrphans-Regular';
+  font-family: 'DreamOrphans';
   src: url("../../fonter/DreamOrphans/Regular/DreamOrphans-Regular.eot");
   src: url("../../fonter/DreamOrphans/Regular/DreamOrphans-Regular.eot?#iefix") format("embedded-opentype"), url("../../fonter/DreamOrphans/Regular/DreamOrphans-Regular.woff2") format("woff2"), url("../../fonter/DreamOrphans/Regular/DreamOrphans-Regular.woff") format("woff"), url("../../fonter/DreamOrphans/Regular/DreamOrphans-Regular.ttf") format("truetype"), url("../../fonter/DreamOrphans/Regular/DreamOrphans-Regular.svg#DreamOrphans-Regular") format("svg");
   font-weight: normal;
@@ -18,10 +18,22 @@ html, body {
   padding: 0; }
 
 header h1 {
-  font-family: 'DreamOrphans-Regular';
+  font-family: 'DreamOrphans';
   font-size: 40px;
   margin-bottom: 10px;
-  margin-left: 10px; }
+  margin-left: 10px;
+  display: inline-block; }
+header nav {
+  display: inline-block;
+  font-family: 'CaviarDreams';
+  font-size: large; }
+  header nav ul {
+    list-style-type: none; }
+    header nav ul li {
+      display: inline-block; }
+      header nav ul li a {
+        color: black;
+        text-decoration: none; }
 header #banner {
   background: url("../../bilder/banner_800x400.jpg");
   background-repeat: no-repeat;
@@ -29,7 +41,7 @@ header #banner {
   header #banner h2 {
     display: inline-block;
     color: #FFFFFF;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.7);
     margin-top: 50px;
     font-family: 'CaviarDreams';
     font-size: 20px;
