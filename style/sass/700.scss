@@ -9,10 +9,25 @@ header
 	{
 		ul
 		{
-			display:		block;
+			display:		block !important;
+
+			position:			initial;
+			z-index:			auto;
+			background:			none;
+			border:				none;
+			-webkit-box-shadow: none;
+			-moz-box-shadow: 	none;
+			box-shadow:			none;
+
+			.item-devider
+			{
+				display:	inline-block;
+			}
+
 			li
 			{
 				display:	inline-block;
+				padding:	0;
 			}
 		}
 	}

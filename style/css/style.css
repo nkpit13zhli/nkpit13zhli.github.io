@@ -31,12 +31,23 @@ header {
     font-family: 'CaviarDreams';
     font-size: large; }
     header nav ul {
+      position: absolute;
+      z-index: 9999;
+      right: 10px;
+      background: white;
+      border: 1px solid #DBDBDB;
+      -webkit-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
+      -moz-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
+      box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
       display: none;
       list-style-type: none;
       padding-left: 5px;
       margin: 10px 0 10px; }
+      header nav ul .item-devider {
+        display: none; }
       header nav ul li {
-        display: block; }
+        display: block;
+        padding: 10px 10px; }
         header nav ul li .current {
           text-decoration: underline; }
         header nav ul li a, header nav ul li a:visited {
@@ -82,9 +93,19 @@ header {
   header #menu-button {
     display: none; }
   header nav ul {
-    display: block; }
-    header nav ul li {
+    display: block !important;
+    position: initial;
+    z-index: auto;
+    background: none;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none; }
+    header nav ul .item-devider {
       display: inline-block; }
+    header nav ul li {
+      display: inline-block;
+      padding: 0; }
   header #banner h2 {
     font-size: 38px;
     line-height: 50px;
