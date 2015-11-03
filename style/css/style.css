@@ -25,8 +25,7 @@ header {
     margin: 0 0 5px 10px;
     float: left; }
   header #menu-button {
-    font-size: 30px;
-    padding-bottom: 7px; }
+    font-size: 20px; }
   header nav {
     float: right;
     margin: 0 10px 0 0;
@@ -74,12 +73,16 @@ header {
 @media (min-width: 300px) {
   header h1 {
     font-size: 25px; }
+  header #menu-button {
+    font-size: 25px; }
   header #banner h2 {
     font-size: 23px;
     line-height: 30px;
     padding: 20px; } }
 @media (min-width: 400px) {
   header h1 {
+    font-size: 30px; }
+  header #menu-button {
     font-size: 30px; }
   header #banner h2 {
     font-size: 25px;
