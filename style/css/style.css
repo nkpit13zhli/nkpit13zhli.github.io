@@ -1,2 +1,29 @@
-html{color:#242424}html,body{margin:0;padding:0}header #banner{background:url("../../bilder/banner_320x117.jpg");height:117px}header #banner h2{display:inline-block;color:#FFFFFF;background:rgba(0,0,0,0.8);margin-top:50px;padding:10px}@media (min-width: 400px){header #banner{background:url("../../bilder/banner_480x175.jpg");height:175px}}
+html {
+  color: #242424; }
+
+html, body {
+  margin: 0;
+  padding: 0; }
+
+header #banner {
+  background: url("../../bilder/banner_320x117.jpg");
+  height: 117px; }
+  header #banner h2 {
+    display: inline-block;
+    color: #FFFFFF;
+    background: rgba(0, 0, 0, 0.8);
+    margin-top: 50px;
+    padding: 10px; }
+
+@media (min-width: 400px) {
+  header #banner {
+    background: url("../../bilder/banner_480x175.jpg");
+    height: 175px; } }
+@media (min-width: 1200px) {
+  header #banner {
+    background: url("../../bilder/banner_1920x700.jpg");
+    height: 700px; }
+    header #banner h2 {
+      font-size: 100px; } }
+
 /*# sourceMappingURL=style.css.map */
