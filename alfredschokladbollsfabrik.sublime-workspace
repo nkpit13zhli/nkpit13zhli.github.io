@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
 				"z-in",
 				"z-index"
 			],
@@ -14,14 +22,6 @@
 			[
 				"marg",
 				"margin-top"
-			],
-			[
-				"text",
-				"text-decoration"
-			],
-			[
-				"font",
-				"font-size"
 			]
 		]
 	},
@@ -31,15 +31,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1010,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/script.js",
-			"settings":
-			{
-				"buffer_size": 472,
+				"buffer_size": 1481,
 				"line_ending": "Windows"
 			}
 		},
@@ -47,63 +39,15 @@
 			"file": "style/sass/0.scss",
 			"settings":
 			{
-				"buffer_size": 2652,
+				"buffer_size": 3636,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "style/sass/700.scss",
+			"file": "style/sass/400.scss",
 			"settings":
 			{
-				"buffer_size": 476,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style/sass/800.scss",
-			"settings":
-			{
-				"buffer_size": 275,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style/sass/900.scss",
-			"settings":
-			{
-				"buffer_size": 100,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style/sass/1000.scss",
-			"settings":
-			{
-				"buffer_size": 101,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style/sass/1100.scss",
-			"settings":
-			{
-				"buffer_size": 175,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style/sass/1200.scss",
-			"settings":
-			{
-				"buffer_size": 102,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style/sass/1400.scss",
-			"settings":
-			{
-				"buffer_size": 81,
+				"buffer_size": 200,
 				"line_ending": "Windows"
 			}
 		}
@@ -146,25 +90,31 @@
 	"expanded_folders":
 	[
 		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/fonter",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/fonter/GeosansLight",
 		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style",
 		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass"
 	],
 	"file_history":
 	[
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/600.scss",
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/500.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/variables.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/0.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/1200.scss",
 		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/400.scss",
 		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/300.scss",
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/.htaccess",
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/test.html",
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/style.scss",
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/1200.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/700.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/600.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/500.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/800.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/1400.scss",
 		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/1100.scss",
 		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/1000.scss",
 		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/900.scss",
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/800.scss",
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/700.scss",
-		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/0.scss",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/index.html",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/js/script.js",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/.htaccess",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/test.html",
+		"/D/XAMPP/htdocs/webbutveckling2/nkpit13zhli.github.io/style/sass/style.scss",
 		"/D/OneDrive for Business/Skoljobb/År 3/Webbutveckling 2/Alfreds chokladbollsfabrik/Dream Orphans/Regular/font.css",
 		"/D/OneDrive for Business/Skoljobb/År 3/Webbutveckling 2/Alfreds chokladbollsfabrik/CaviarDreams/Italic/font.css",
 		"/D/OneDrive for Business/Skoljobb/År 3/Webbutveckling 2/Alfreds chokladbollsfabrik/CaviarDreams/Regular/font.css",
@@ -217,7 +167,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -226,239 +176,73 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1010,
+						"buffer_size": 1481,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								123,
-								123
+								1409,
+								1409
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "js/script.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 472,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								472,
-								472
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "style/sass/0.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2652,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1779,
-								1750
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 675.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "style/sass/700.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 476,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								181,
-								181
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 90.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "style/sass/800.scss",
+					"buffer": 1,
+					"file": "style/sass/0.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 275,
+						"buffer_size": 3636,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								58,
-								58
+								3636,
+								3400
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1800.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "style/sass/900.scss",
+					"buffer": 2,
+					"file": "style/sass/400.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 100,
+						"buffer_size": 200,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8,
-								8
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "style/sass/1000.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 101,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "style/sass/1100.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 175,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								175,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "style/sass/1200.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 102,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21,
-								21
+								161,
+								161
 							]
 						],
 						"settings":
@@ -470,36 +254,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "style/sass/1400.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 81,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								65,
-								65
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

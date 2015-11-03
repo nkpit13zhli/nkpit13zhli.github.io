@@ -10,15 +10,27 @@
   src: url("../../fonter/CaviarDreams/Regular/CaviarDreams.eot?#iefix") format("embedded-opentype"), url("../../fonter/CaviarDreams/Regular/CaviarDreams.woff2") format("woff2"), url("../../fonter/CaviarDreams/Regular/CaviarDreams.woff") format("woff"), url("../../fonter/CaviarDreams/Regular/CaviarDreams.ttf") format("truetype"), url("../../fonter/CaviarDreams/Regular/CaviarDreams.svg#CaviarDreams") format("svg");
   font-weight: normal;
   font-style: normal; }
+@font-face {
+  font-family: 'GeosansLight';
+  src: url("../../fonter/GeosansLight/Regular/GeosansLight.eot");
+  src: url("../../fonter/GeosansLight/Regular/GeosansLight.eot?#iefix") format("embedded-opentype"), url("../../fonter/GeosansLight/Regular/GeosansLight.woff2") format("woff2"), url("../../fonter/GeosansLight/Regular/GeosansLight.woff") format("woff"), url("../../fonter/GeosansLight/Regular/GeosansLight.ttf") format("truetype"), url("../../fonter/GeosansLight/Regular/GeosansLight.svg#GeosansLight") format("svg");
+  font-weight: normal;
+  font-style: normal; }
 html {
-  color: #242424; }
+  color: #303030;
+  font-family: 'GeosansLight';
+  font-size: large; }
 
 html, body {
   margin: 0;
   padding: 0; }
 
+h1, h2, h3 {
+  font-family: 'CaviarDreams'; }
+
 header {
-  padding-top: 25px; }
+  padding-top: 25px;
+  margin-bottom: 100px; }
   header h1 {
     font-family: 'DreamOrphans';
     font-size: 20px;
@@ -69,5 +81,18 @@ header {
       font-size: 20px;
       padding: 10px;
       line-height: 27px; }
+
+footer {
+  margin-top: 100px;
+  padding: 50px 0;
+  background: #E8E8E8;
+  text-align: center; }
+  footer section {
+    word-break: break-all;
+    text-align: left;
+    background: white;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px; }
 
 /*# sourceMappingURL=0.css.map */

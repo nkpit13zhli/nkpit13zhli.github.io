@@ -6,4 +6,7 @@ header #banner h2 {
   font-size: 25px;
   line-height: 33px; }
 
+footer section {
+  word-break: normal; }
+
 /*# sourceMappingURL=400.css.map */
