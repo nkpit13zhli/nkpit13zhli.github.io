@@ -1,3 +1,3 @@
 $(document).on('click touchstart', '#menu-button', function(){
-	$('#menu-items').toggle();
+	$('#menu-items').fadeToggle(150);
 });
