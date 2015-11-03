@@ -3,11 +3,19 @@ $(document).on('click touchstart', '#menu-button', function(e){
 	$('#menu-items').toggle(150);
 });
 
+var flag = false;
+
 $(document).on('click touchstart', function(e){
-	e.preventDefault();
-	var o = $(e.target);
-	if( !$(o).is('#menu-button') && !$(o).is('#menu-items') )
+
+	if(!flag)
 	{
-		$('#menu-items').hide(150);
+		flag = true;
+		setTimeout(function(){ flag = false; }, 100);
+
+		var o = $(e.target);
+		if( $('#menu-button').css('display') != 'none' && !$(o).is('#menu-button') && !$(o).is('#menu-items') && !$('#menu-items').has(o) )
+		{
+			$('#menu-items').hide(150);
+		}
 	}
 });
