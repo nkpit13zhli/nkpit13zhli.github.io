@@ -23,8 +23,9 @@ header h1 {
   margin-bottom: 10px;
   margin-left: 10px; }
 header #banner {
-  background: url("../../bilder/banner_1920x700.jpg");
-  height: 700px; }
+  background: url("../../bilder/banner_800x400.jpg");
+  background-repeat: no-repeat;
+  height: 400px; }
   header #banner h2 {
     display: inline-block;
     color: #FFFFFF;
@@ -60,10 +61,13 @@ header #banner {
     line-height: 50px;
     padding: 35px; } }
 @media (min-width: 800px) {
-  header #banner h2 {
-    font-size: 44px;
-    line-height: 59px;
-    padding: 40px; } }
+  header #banner {
+    background: url("../../bilder/banner_1100x550.jpg");
+    height: 550px; }
+    header #banner h2 {
+      font-size: 44px;
+      line-height: 59px;
+      padding: 40px; } }
 @media (min-width: 900px) {
   header #banner h2 {
     font-size: 50px;
@@ -75,17 +79,20 @@ header #banner {
     line-height: 76px;
     padding: 40px; } }
 @media (min-width: 1100px) {
-  header #banner h2 {
-    font-size: 60px;
-    line-height: 80px;
-    padding: 65px; } }
-@media (min-width: 1200px) {
   header #banner {
-    background: url("../../bilder/banner_1920x700.jpg");
+    background: url("../../bilder/banner_1400x700.jpg");
     height: 700px; }
     header #banner h2 {
       font-size: 60px;
       line-height: 80px;
-      padding: 100px; } }
+      padding: 65px; } }
+@media (min-width: 1200px) {
+  header #banner h2 {
+    font-size: 60px;
+    line-height: 80px;
+    padding: 100px; } }
+@media (min-width: 1200px) {
+  header #banner {
+    background: url("../../bilder/banner_1920x700.jpg"); } }
 
 /*# sourceMappingURL=style.css.map */

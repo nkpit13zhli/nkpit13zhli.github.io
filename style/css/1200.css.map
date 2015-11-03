@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAGC,cACA;EACC,UAAU,EAAE,uCAAuC;EACnD,MAAM,EAAG,KAAK;EAEd,iBACA;IACC,SAAS,EAAG,IAAI;IAChB,WAAW,EAAE,IAAI;IACjB,OAAO,EAAG,KAAK",
+"mappings": "AAKE,iBACA;EACC,SAAS,EAAG,IAAI;EAChB,WAAW,EAAE,IAAI;EACjB,OAAO,EAAG,KAAK",
 "sources": ["../sass/1200.scss"],
 "names": [],
 "file": "1200.css"
