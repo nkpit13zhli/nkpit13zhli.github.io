@@ -1,5 +1,5 @@
-header #banner {
-  background: url("../../bilder/banner_480x175.jpg");
-  height: 175px; }
+header #banner h2 {
+  font-size: 25px;
+  line-height: 33px; }
 
 /*# sourceMappingURL=400.css.map */

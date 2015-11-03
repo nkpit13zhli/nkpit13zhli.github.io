@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAGC,cACA;EACC,UAAU,EAAE,sCAAsC;EAClD,MAAM,EAAG,KAAK",
+"mappings": "AAKE,iBACA;EACC,SAAS,EAAG,IAAI;EAChB,WAAW,EAAE,IAAI",
 "sources": ["../sass/400.scss"],
 "names": [],
 "file": "400.css"
