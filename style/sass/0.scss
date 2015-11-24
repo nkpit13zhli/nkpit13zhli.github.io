@@ -154,9 +154,12 @@ main
 	max-width:	95%;
 	margin:		0 auto;
 
-	.justify
+	section
 	{
-		text-align:	justify;
+		.justify
+		{
+			text-align:	justify;
+		}
 	}
 }
 

@@ -22,13 +22,27 @@ header
 
 main
 {
-	p
-	{
-		max-width:	450px;
-	}
+	max-width:	95%;
+	margin:		0 auto;
+	text-align:	center;
 
+	section
+	{
+		display:		inline-block;
+		max-width:		450px;
+		text-align:		left;
+		margin:			10px;
+		vertical-align:	top;
+
+
+		.justify
+		{
+			text-align:	justify;
+		}
+	}
 	.fullwidth
 	{
+		display: 	block;
 		max-width:	100%;
 	}
 }
