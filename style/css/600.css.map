@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAIE,iBACA;EACC,SAAS,EAAG,IAAI;EAChB,WAAW,EAAE,IAAI;EACjB,OAAO,EAAG,IAAI",
-"sources": ["../sass/600.scss"],
-"names": [],
-"file": "600.css"
-}
