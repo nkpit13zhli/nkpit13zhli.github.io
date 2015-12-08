@@ -1,3 +1,7 @@
+$(document).ready(function() {
+	$("html").niceScroll({width:"8px"});
+});
+
 $(document).on('click touchstart', '#menu-button', function(e){
 	e.preventDefault();
 	$('#menu-items').toggle(150);
