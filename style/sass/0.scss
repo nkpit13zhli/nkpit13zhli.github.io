@@ -37,6 +37,16 @@
   font-style: normal;
 }
 
+.noselect
+{
+	user-select:	none;
+}
+
+.block
+{
+	display:	block;
+}
+
 html
 {
 	color: 			$text-color;
@@ -58,6 +68,11 @@ h1, h2, h3
 a
 {
 	color:	$link-color;
+}
+
+img
+{
+	max-width:	100%;
 }
 
 header
@@ -94,8 +109,6 @@ header
 			right:				10px;
 			background:			white;
 			border:				1px solid #DBDBDB;
-			-webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
-			-moz-box-shadow: 	5px 5px 5px 0px rgba(0,0,0,0.75);
 			box-shadow:			5px 5px 5px 0px rgba(0,0,0,0.75);
 
 			display:			none;
@@ -158,7 +171,7 @@ header
 	{
 		.justify
 		{
-			text-align:	justify;
+			text-align:			justify;
 		}
 	}
 }
