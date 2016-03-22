@@ -37,6 +37,11 @@
   font-style: normal;
 }
 
+@-ms-viewport
+{
+	width: auto;
+}
+
 .noselect
 {
 	user-select:	none;
