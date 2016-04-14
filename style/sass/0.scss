@@ -25,18 +25,6 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'GeosansLight';
-  src: url('../../fonter/GeosansLight/Regular/GeosansLight.eot');
-  src: url('../../fonter/GeosansLight/Regular/GeosansLight.eot?#iefix') format('embedded-opentype'),
-       url('../../fonter/GeosansLight/Regular/GeosansLight.woff2') format('woff2'),
-       url('../../fonter/GeosansLight/Regular/GeosansLight.woff') format('woff'),
-       url('../../fonter/GeosansLight/Regular/GeosansLight.ttf') format('truetype'),
-       url('../../fonter/GeosansLight/Regular/GeosansLight.svg#GeosansLight') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
 @-ms-viewport
 {
 	width: auto;
@@ -55,8 +43,8 @@
 html
 {
 	color: 			$text-color;
-	font-family:	'GeosansLight';
-	font-size:		large;
+	font-family:	sans-serif;
+	font-size:		medium;
 }
 
 html, body
