@@ -204,3 +204,81 @@ footer
 		margin:		20px;
 	}
 }
+
+/*
+	START Header slider
+*/
+
+#slider
+{
+	color:			$text-color;
+	box-sizing: 	border-box;
+	padding:		50px 20px;
+	background:		$slide-color;
+	text-align:	 	center;
+	position:		relative;
+	margin-bottom:	-70px;
+
+	#arrowLeft, #arrowRight
+	{
+	  position: 	absolute;
+	  z-index:  	9999;
+	  display:		none;
+	  font-size:	30px;
+	  cursor:		pointer;
+	  bottom:		20px;
+	  display:		none;
+	}
+
+	#arrowLeft
+	{
+	  left:		10px;
+	}
+
+	#arrowRight
+	{
+	  right: 10px;
+	}
+
+	.slides-wrapper
+	{
+	  position: 	relative;
+	  width: 		100%;
+	  overflow: 	hidden;
+	  white-space:	nowrap;
+	}
+
+	.slide
+	{
+		width:			100%;
+		display:		inline-block;
+		box-sizing:		border-box;
+		margin:			0;
+		white-space:	normal;
+	}
+
+	.text
+	{
+		display:		inline-block;
+		position:		relative;
+		font-family:	sans-serif;
+		max-width:		500px;
+
+		p
+		{
+			white-space: 	normal;
+			font-family:	'Roboto', sans-serif;
+			font-weight:	300;
+			font-size:		20px;
+		}
+
+		.name
+		{
+			font-style:	italic;
+		}
+	}
+}
+
+/*
+	END Header slider
+*/
