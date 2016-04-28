@@ -39,7 +39,7 @@ $(document).on('click touchstart', function(e){
   var lastSlide = 0;
   var currentSlide = 0;
   var slides = 0;
-  var duration = 800;
+  var duration = 400;
 
   function scrollSlide(action)
   {
